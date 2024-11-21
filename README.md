@@ -1,5 +1,4 @@
-# Matrix transformation Simulator
-
+# Matrix transformation Visualizer
 This program is designed to assist in the study of Linear Algebra, with a specific focus on understanding the geometric interpretation of matrix transformations.
 
 ![image](https://github.com/Epp-ppE/Matrix-transformation-Simulation/assets/112923717/7bf98c3c-438d-42b0-b3f1-7bd72b1566f0)
